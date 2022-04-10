@@ -68,9 +68,9 @@
 
 
 
-let userAge = 100;
-let userAgeInfo = `Возраст: ${userAge}`;
-console.log(userAgeInfo);
+// let userAge = 100;
+// let userAgeInfo = `Возраст: ${userAge}`;
+// console.log(userAgeInfo);
 
 // let userAge = 100;
 // console.log(userAge);
